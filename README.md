@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhwendra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">B.Tech CSE Student @AKTU | Skilled in Python & Excel | Problem Solver | Tech Learner | HTML & CSS</h3>
 
-- 💬 Ask me about **Python,C Language**
+- 💬 Ask me about **Python,Excel**
 
 - 📫 How to reach me **madhwendra2208@gmail.com**
 
